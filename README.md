@@ -16,6 +16,8 @@ The purpose of this module was to explain in detail what BIG DATA is, what const
 * SQL - pgAdmin
 
 ### RESULTS
+NOTE: Of the 50 Datasets choices, I decided to choose "JEWELRY" due to my past experience from working at Tiffany & Co. in Hawaii and California.
+
 * HOW MANY VINE & NON-VINE REVIEWS EACH WERE THERE?
 
 
