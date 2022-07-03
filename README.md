@@ -13,7 +13,7 @@ The purpose of this module was to explain in detail what BIG DATA is, what const
 * Amazon Web Services (AWS)
   * RDS (Relational Database Service)
   * S3 (Simple Storage Service)
-* pgAdmin
+* SQL - pgAdmin
 
 ### RESULTS
 * HOW MANY VINE & NON-VINE REVIEWS EACH WERE THERE?
